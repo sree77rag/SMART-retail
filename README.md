@@ -52,17 +52,17 @@
 <table border="0" width="100%">
   <tr>
     <td width="33%" align="center" style="background-color: #f8f9fa; border-radius: 12px; padding: 16px;">
-      <img src="https://img.icons8.com/color/96/google-code.png" width="42"/><br/>
+      💻<br/>
       <b>Modular REST API</b><br/>
       <sub>FastAPI + SQLAlchemy for low-latency transaction flows</sub>
     </td>
     <td width="33%" align="center" style="background-color: #f8f9fa; border-radius: 12px; padding: 16px;">
-      <img src="https://img.icons8.com/color/96/shield-a.png" width="42"/><br/>
+      🛡️<br/>
       <b>Cryptographic Exit</b><br/>
       <sub>SHA-256 token hashing & Fernet encryption for gate verification</sub>
     </td>
     <td width="33%" align="center" style="background-color: #f8f9fa; border-radius: 12px; padding: 16px;">
-      <img src="https://img.icons8.com/color/96/google-database.png" width="42"/><br/>
+      🗄️<br/>
       <b>Relational Data</b><br/>
       <sub>PostgreSQL backend for strict transactional integrity</sub>
     </td>
@@ -83,32 +83,32 @@ Designed around Google's Material 3 motion guidelines for intuitive, step-by-ste
 <table>
   <tr align="center">
     <td width="16%">
-      <img src="https://img.icons8.com/color/96/qr-code.png" width="44"/><br/>
+      📱<br/>
       <b>01. ACCESS</b><br/>
       <sub>Scan Store QR</sub>
     </td>
     <td width="16%">
-      <img src="https://img.icons8.com/color/96/barcode.png" width="44"/><br/>
+      🛒<br/>
       <b>02. SHOP</b><br/>
       <sub>Scan Barcodes</sub>
     </td>
     <td width="16%">
-      <img src="https://img.icons8.com/color/96/shopping-cart--v1.png" width="44"/><br/>
+      🛍️<br/>
       <b>03. CART</b><br/>
       <sub>Manage Items</sub>
     </td>
     <td width="16%">
-      <img src="https://img.icons8.com/color/96/bank-card-back-side.png" width="44"/><br/>
+      💳<br/>
       <b>04. PAY</b><br/>
       <sub>Simulated Pay</sub>
     </td>
     <td width="16%">
-      <img src="https://img.icons8.com/color/96/receipt.png" width="44"/><br/>
+      🧾<br/>
       <b>05. RECEIPT</b><br/>
       <sub>Digital Receipt</sub>
     </td>
     <td width="16%">
-      <img src="https://img.icons8.com/color/96/verified-account.png" width="44"/><br/>
+      🔐<br/>
       <b>06. EXIT</b><br/>
       <sub>Verify Token</sub>
     </td>
