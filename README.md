@@ -1,70 +1,74 @@
+```markdown
 <!-- ========================================================= -->
 <!--                         SMAQR                             -->
-<!--              SMART ACCESS. INTELLIGENT RETAIL.             -->
+<!--               A SMAQR ORIGINAL BACKEND                    -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<!-- Animated Header Banner with Dynamic Wave & Glowing Particle FX -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&fontColor=FFFFFF&text=SMAQR&fontSize=72&fontAlignY=38&animation=twinkle&desc=Smart%20Access.%20Intelligent%20Retail.&descSize=20&descAlignY=62" alt="SMAQR Banner"/>
+<!-- Netflix-Red Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:141414,35:E50914,70:B81D24,100:141414&fontColor=FFFFFF&text=SMAQR&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Smart%20Access.%20Intelligent%20Retail.&descSize=20&descAlignY=62" alt="SMAQR Banner"/>
 
 <br/>
 
 <p align="center">
   <a href="https://github.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Display&weight=600&size=24&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=600&height=50&lines=A+New+Perspective+on+Retail.;Scan.+Shop.+Checkout.+Verify.;Powered+by+FastAPI+%2B+PostgreSQL." alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=26&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=600&height=50&lines=STREAMLINING+RETAIL.+ONE+SCAN+AT+A+TIME.;A+SMAQR+ORIGINAL+BACKEND.;POWERED+BY+FASTAPI+%2B+POSTGRESQL." alt="Typing Subtitle" />
   </a>
 </p>
 
-<!-- Pill Badges -->
+<!-- Netflix Pill Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/BACKEND-FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SMAQR-ORIGINAL-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
+  <img src="https://img.shields.io/badge/RATING-N--18+-141414?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/QUALITY-4K%20UHD-E50914?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ENGINE-PYTHON%203.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DATABASE-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI-MATERIAL%203-000000?style=for-the-badge&logo=googlematerialdesign&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/API-FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATA-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <br/>
 
 <!-- Quick Navigation Bar -->
 <p align="center">
-  <a href="#-overview"><b>Overview</b></a> &nbsp;•&nbsp;
-  <a href="#-the-shopping-experience"><b>Experience</b></a> &nbsp;•&nbsp;
-  <a href="#-features"><b>Features</b></a> &nbsp;•&nbsp;
+  <a href="#-synopsis"><b>Synopsis</b></a> &nbsp;•&nbsp;
+  <a href="#-episodes--workflow"><b>Episodes</b></a> &nbsp;•&nbsp;
+  <a href="#-featured-capabilities"><b>Features</b></a> &nbsp;•&nbsp;
   <a href="#-tech-stack"><b>Tech Stack</b></a> &nbsp;•&nbsp;
-  <a href="#-architecture"><b>Architecture</b></a> &nbsp;•&nbsp;
-  <a href="#-getting-started"><b>Setup</b></a>
+  <a href="#-system-architecture"><b>Architecture</b></a> &nbsp;•&nbsp;
+  <a href="#-play--getting-started"><b>Setup</b></a>
 </p>
 
-<!-- Google Gradient Divider -->
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4" />
+<!-- Crimson Gradient Line -->
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:E50914,50:B81D24,100:141414" />
 
 </div>
 
 <br/>
 
-## 🌐 Overview
+## 🎬 Synopsis
 
-> **SMAQR** is an API-driven smart retail self-checkout ecosystem engineered to eliminate checkout friction, automate inventory processing, and provide cryptographic exit security.
+> **SMAQR** is a high-performance, API-driven self-checkout engine built to revolutionize physical retail. Designed for zero-friction store access, automated cart management, and cryptographic exit verification.
+
+<br/>
 
 <div align="center">
 <table border="0" width="100%">
   <tr>
-    <td width="33%" align="center" style="background-color: #f8f9fa; border-radius: 12px; padding: 16px;">
-      💻<br/>
-      <b>Modular REST API</b><br/>
-      <sub>FastAPI + SQLAlchemy for low-latency transaction flows</sub>
+    <td width="33%" align="center" style="background-color: #1f1f1f; border-radius: 10px; padding: 18px;">
+      ⚡<br/>
+      <b style="color: #E50914;">Ultra-Fast REST API</b><br/>
+      <sub>Asynchronous FastAPI endpoints for sub-millisecond checkout response times.</sub>
     </td>
-    <td width="33%" align="center" style="background-color: #f8f9fa; border-radius: 12px; padding: 16px;">
-      🛡️<br/>
-      <b>Cryptographic Exit</b><br/>
-      <sub>SHA-256 token hashing & Fernet encryption for gate verification</sub>
+    <td width="33%" align="center" style="background-color: #1f1f1f; border-radius: 10px; padding: 18px;">
+      🔒<br/>
+      <b style="color: #E50914;">Vault-Grade Gate Security</b><br/>
+      <sub>SHA-256 token hashing and Fernet encryption for single-use exit passes.</sub>
     </td>
-    <td width="33%" align="center" style="background-color: #f8f9fa; border-radius: 12px; padding: 16px;">
-      🗄️<br/>
-      <b>Relational Data</b><br/>
-      <sub>PostgreSQL backend for strict transactional integrity</sub>
+    <td width="33%" align="center" style="background-color: #1f1f1f; border-radius: 10px; padding: 18px;">
+      💾<br/>
+      <b style="color: #E50914;">ACID Data Storage</b><br/>
+      <sub>Robust PostgreSQL backend driving strict inventory and order integrity.</sub>
     </td>
   </tr>
 </table>
@@ -72,9 +76,11 @@
 
 ---
 
-## 🛍️ The Shopping Experience
+## 🍿 Episodes & Workflow (The User Experience)
 
-Designed around Google's Material 3 motion guidelines for intuitive, step-by-step user journeys:
+```
+SEASON 1  |  6 EPISODES  |  SELF-CHECKOUT WORKFLOW
+```
 
 <br/>
 
@@ -82,35 +88,41 @@ Designed around Google's Material 3 motion guidelines for intuitive, step-by-ste
 
 <table>
   <tr align="center">
-    <td width="16%">
+    <td width="16%" style="background-color: #141414; padding: 12px;">
       📱<br/>
-      <b>01. ACCESS</b><br/>
+      <b style="color: #E50914;">EP 01</b><br/>
+      <b>ACCESS</b><br/>
       <sub>Scan Store QR</sub>
     </td>
-    <td width="16%">
+    <td width="16%" style="background-color: #141414; padding: 12px;">
       🛒<br/>
-      <b>02. SHOP</b><br/>
+      <b style="color: #E50914;">EP 02</b><br/>
+      <b>DISCOVER</b><br/>
       <sub>Scan Barcodes</sub>
     </td>
-    <td width="16%">
+    <td width="16%" style="background-color: #141414; padding: 12px;">
       🛍️<br/>
-      <b>03. CART</b><br/>
+      <b style="color: #E50914;">EP 03</b><br/>
+      <b>CART</b><br/>
       <sub>Manage Items</sub>
     </td>
-    <td width="16%">
+    <td width="16%" style="background-color: #141414; padding: 12px;">
       💳<br/>
-      <b>04. PAY</b><br/>
+      <b style="color: #E50914;">EP 04</b><br/>
+      <b>PAYMENT</b><br/>
       <sub>Simulated Pay</sub>
     </td>
-    <td width="16%">
+    <td width="16%" style="background-color: #141414; padding: 12px;">
       🧾<br/>
-      <b>05. RECEIPT</b><br/>
-      <sub>Digital Receipt</sub>
+      <b style="color: #E50914;">EP 05</b><br/>
+      <b>RECEIPT</b><br/>
+      <sub>Digital Summary</sub>
     </td>
-    <td width="16%">
+    <td width="16%" style="background-color: #141414; padding: 12px;">
       🔐<br/>
-      <b>06. EXIT</b><br/>
-      <sub>Verify Token</sub>
+      <b style="color: #E50914;">EP 06</b><br/>
+      <b>EXIT</b><br/>
+      <sub>Gate Verification</sub>
     </td>
   </tr>
 </table>
@@ -119,27 +131,27 @@ Designed around Google's Material 3 motion guidelines for intuitive, step-by-ste
 
 ---
 
-## ✨ Features & Roadmap
+## ✨ Featured Capabilities
 
-### ⚡ Core Backend Modules
+### 🔥 Season 1: Core Backend Modules
 
-| Feature Module | Capabilities & Description | Status |
+| Episode / Feature | Technical Breakdown | Status |
 | :--- | :--- | :---: |
-| **Store Sessions** | Generates isolate, cryptographically verifiable shopping sessions | ![Implemented](https://img.shields.io/badge/Ready-34A853?style=flat-square&logo=google-check) |
-| **Product Discovery** | Instant barcode lookup with stock & price verification | ![Implemented](https://img.shields.io/badge/Ready-34A853?style=flat-square&logo=google-check) |
-| **Cart Management** | Dynamic updates, batch quantity management, total calculation | ![Implemented](https://img.shields.io/badge/Ready-34A853?style=flat-square&logo=google-check) |
-| **Checkout Engine** | Atomically converts carts to orders with stock deduction | ![Implemented](https://img.shields.io/badge/Ready-34A853?style=flat-square&logo=google-check) |
-| **Security & Exit Gate**| SHA-256 token hashing, Fernet recovery & time-bound expiration | ![Implemented](https://img.shields.io/badge/Ready-34A853?style=flat-square&logo=google-check) |
+| **Store Sessions** | Generates isolated, cryptographically signed shopping sessions | ![Released](https://img.shields.io/badge/RELEASED-E50914?style=flat-square) |
+| **Product Discovery** | Instant barcode lookup with active stock & price verification | ![Released](https://img.shields.io/badge/RELEASED-E50914?style=flat-square) |
+| **Cart Management** | Dynamic updates, batch item mutations, atomic total calculation | ![Released](https://img.shields.io/badge/RELEASED-E50914?style=flat-square) |
+| **Checkout Engine** | Converts carts to orders and updates inventory atomically | ![Released](https://img.shields.io/badge/RELEASED-E50914?style=flat-square) |
+| **Exit Security Gate** | SHA-256 token hashing, Fernet recovery & time-bound expiration | ![Released](https://img.shields.io/badge/RELEASED-E50914?style=flat-square) |
 
-### 🚀 Planned Client & UI Enhancements
+### 🚨 Coming Soon in Season 2 (Frontend & Extensions)
 
 <details open>
-<summary><b>Frontend & User Interface (Next Phase)</b></summary>
+<summary><b>View Upcoming Releases</b></summary>
 
-- [ ] Modern React + Vite frontend adhering to **Material Design 3 Expressive** design tokens.
-- [ ] Camera-based dynamic barcode & QR scanner integration (WebRTC + BarcodeDetector API).
-- [ ] Real-time WebSocket integration for automated exit turnstile triggers.
-- [ ] Staff administration dashboard & exit receipt validator portal.
+- [ ] **React Mobile Interface** — Netflix-dark responsive UI using modern design tokens.
+- [ ] **Camera-Based Scanning** — In-browser barcode scanning via WebRTC and BarcodeDetector API.
+- [ ] **Live Gate WebSockets** — Real-time turnstile triggers upon receipt validation.
+- [ ] **Staff Dashboard** — Admin portal for live receipt validation and inventory oversight.
 </details>
 
 ---
@@ -148,10 +160,10 @@ Designed around Google's Material 3 motion guidelines for intuitive, step-by-ste
 
 <div align="center">
 
-### Backend & Database Platform
+### Cast & Production Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,vscode,docker&theme=light" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,vscode,docker&theme=dark" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -161,14 +173,14 @@ Designed around Google's Material 3 motion guidelines for intuitive, step-by-ste
 
 <div align="center">
 
-| Layer | Technologies | Purpose |
+| Role | Technology | Description |
 | :--- | :--- | :--- |
-| **Language & Engine** | `Python 3.11+` | Core application logic, REST interfaces, and cryptography |
-| **API Framework** | `FastAPI` + `Uvicorn` | High-performance asynchronous OpenAPI server |
-| **ORM & Data** | `SQLAlchemy` + `Pydantic v2` | Data serialization, relational mapping & dynamic validation |
-| **Database** | `PostgreSQL` | Acid-compliant transactional persistence |
-| **Security** | `Cryptography (Fernet)` + `SHA-256` | Secure single-use exit verification tokens |
-| **Frontend (Planned)**| `React` + `Vite` + `TailwindCSS` | Material 3 component UI and mobile client |
+| **Language** | `Python 3.11+` | Application business logic, security routines & REST handlers |
+| **Framework** | `FastAPI` + `Uvicorn` | Asynchronous, low-latency REST API framework |
+| **ORM & Schemas** | `SQLAlchemy` + `Pydantic v2` | Type-safe database mapping & request validation |
+| **Database** | `PostgreSQL` | ACID-compliant persistent database |
+| **Security** | `Cryptography (Fernet)` + `SHA-256` | Single-use time-limited token hashing and encryption |
+| **Frontend (Season 2)**| `React` + `Vite` + `TailwindCSS` | Cinematic dark UI for mobile and tablet web clients |
 
 </div>
 
@@ -178,38 +190,38 @@ Designed around Google's Material 3 motion guidelines for intuitive, step-by-ste
 
 ```mermaid
 flowchart TD
-    %% Custom Styling matching Google Color Palette
-    classDef customerStyle fill:#E8F0FE,stroke:#4285F4,stroke-width:2px,color:#1A73E8;
-    classDef frontendStyle fill:#FEF7E0,stroke:#FBBC05,stroke-width:2px,color:#B06000;
-    classDef backendStyle fill:#E6F4EA,stroke:#34A853,stroke-width:2px,color:#137333;
-    classDef securityStyle fill:#FCE8E6,stroke:#EA4335,stroke-width:2px,color:#C5221F;
-    classDef dbStyle fill:#F1F3F4,stroke:#5F6368,stroke-width:2px,color:#202124;
+    %% Custom Netflix Dark Theme Styling
+    classDef clientStyle fill:#141414,stroke:#E50914,stroke-width:2px,color:#FFFFFF;
+    classDef apiStyle fill:#1F1F1F,stroke:#E50914,stroke-width:2px,color:#E50914;
+    classDef coreStyle fill:#2B2B2B,stroke:#B81D24,stroke-width:2px,color:#FFFFFF;
+    classDef secStyle fill:#4A0D0D,stroke:#E50914,stroke-width:2px,color:#FFFFFF;
+    classDef dbStyle fill:#141414,stroke:#666666,stroke-width:2px,color:#CCCCCC;
 
-    subgraph CLIENT["📱 Client Interaction (Planned)"]
-        C([Customer App]) ::: customerStyle
-        UI[React Mobile UI] ::: frontendStyle
-        SCANNER[Barcode & QR Scanner] ::: frontendStyle
+    subgraph CLIENT_LAYER["📱 Client Layer (Season 2)"]
+        C([Customer App]) ::: clientStyle
+        UI[React Dark UI] ::: clientStyle
+        SCANNER[Barcode Scanner Module] ::: clientStyle
     end
 
-    subgraph API_GATEWAY["⚡ FastAPI Service Core"]
-        SESS[Session Manager] ::: backendStyle
-        CART_SRV[Cart & Catalog Service] ::: backendStyle
-        ORDER_SRV[Checkout & Inventory Engine] ::: backendStyle
+    subgraph BACKEND_GATEWAY["⚡ FastAPI Gateway"]
+        SESS[Session Handler] ::: apiStyle
+        CART_SRV[Cart & Catalog Engine] ::: coreStyle
+        ORDER_SRV[Checkout Engine] ::: coreStyle
     end
 
-    subgraph SEC_VAULT["🔐 Security & Verification Module"]
-        HASH_ENG[SHA-256 Hashing] ::: securityStyle
-        FERNET_ENG[Fernet Encryption] ::: securityStyle
-        VAL_GATE[Exit Gate Validator] ::: securityStyle
+    subgraph SECURITY_VAULT["🔐 Cryptographic Security Vault"]
+        HASH_ENG[SHA-256 Hasher] ::: secStyle
+        FERNET_ENG[Fernet Encryptor] ::: secStyle
+        VAL_GATE[Exit Gate Validator] ::: secStyle
     end
 
     DB[(PostgreSQL Database)] ::: dbStyle
 
     C --> UI
     UI --> SCANNER
-    SCANNER -->|REST API Requests| SESS
-    SCANNER -->|Product Scanning| CART_SRV
-    UI -->|Checkout Flow| ORDER_SRV
+    SCANNER -->|API Requests| SESS
+    SCANNER -->|Product Lookups| CART_SRV
+    UI -->|Checkout Request| ORDER_SRV
 
     SESS --> DB
     CART_SRV --> DB
@@ -218,4 +230,66 @@ flowchart TD
     ORDER_SRV --> HASH_ENG
     ORDER_SRV --> FERNET_ENG
     VAL_GATE --> HASH_ENG
-    SEC_VAULT --> DB
+    SECURITY_VAULT --> DB
+```
+
+---
+
+## ▶️ Play (Getting Started)
+
+### Prerequisites
+
+* **Python:** `3.10+` installed
+* **PostgreSQL:** Running database instance
+
+### Quick Start Guide
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/smaqr.git](https://github.com/your-username/smaqr.git)
+   cd smaqr
+   ```
+
+2. **Create and activate a virtual environment:**
+   ```bash
+   python -m venv venv
+   # On Linux/macOS
+   source venv/bin/activate
+   # On Windows PowerShell
+   .\venv\Scripts\Activate.ps1
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Environment Setup:**
+   Create a `.env` file in the project root:
+   ```env
+   DATABASE_URL=postgresql://user:password@localhost:5432/smaqr_db
+   SECRET_KEY=your_fernet_encryption_key_here
+   ```
+
+5. **Start the server:**
+   ```bash
+   uvicorn main:app --reload
+   ```
+
+6. **Interactive Docs:**
+   Navigate to [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) to explore endpoints via Swagger UI.
+
+---
+
+<div align="center">
+
+<!-- Crimson Footer Line -->
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:141414,50:E50914,100:141414" />
+
+<br/>
+
+<p align="center">
+  🍿 <b>SMAQR</b> — Less Friction. Smarter Retail.
+</p>
+
+</div>
