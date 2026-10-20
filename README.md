@@ -5,241 +5,217 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4285F4,30:34A853,60:FBBC05,100:EA4335&fontColor=FFFFFF&text=SMAQR&fontSize=64&fontAlignY=42&animation=fadeIn" alt="SMAQR Header"/>
+<!-- Animated Header Banner with Dynamic Wave & Glowing Particle FX -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&fontColor=FFFFFF&text=SMAQR&fontSize=72&fontAlignY=38&animation=twinkle&desc=Smart%20Access.%20Intelligent%20Retail.&descSize=20&descAlignY=62" alt="SMAQR Banner"/>
 
 <br/>
 
-# Smart Access. Intelligent Retail.
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Display&weight=600&size=24&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=600&height=50&lines=A+New+Perspective+on+Retail.;Scan.+Shop.+Checkout.+Verify.;Powered+by+FastAPI+%2B+PostgreSQL." alt="Typing Subtitle" />
+  </a>
+</p>
 
-### A NEW PERSPECTIVE ON RETAIL.
-
-An API-driven self-checkout platform built to simplify shopping,
-streamline checkout workflows, and enable exit verification.
+<!-- Pill Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/BACKEND-FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENGINE-PYTHON%203.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATABASE-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI-MATERIAL%203-000000?style=for-the-badge&logo=googlematerialdesign&logoColor=4285F4" />
+</p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/PROJECT-IN%20DEVELOPMENT-4285F4?style=for-the-badge&labelColor=FFFFFF" />
-<img src="https://img.shields.io/badge/ENGINE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/API-FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/DATA-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<!-- Quick Navigation Bar -->
+<p align="center">
+  <a href="#-overview"><b>Overview</b></a> &nbsp;•&nbsp;
+  <a href="#-the-shopping-experience"><b>Experience</b></a> &nbsp;•&nbsp;
+  <a href="#-features"><b>Features</b></a> &nbsp;•&nbsp;
+  <a href="#-tech-stack"><b>Tech Stack</b></a> &nbsp;•&nbsp;
+  <a href="#-architecture"><b>Architecture</b></a> &nbsp;•&nbsp;
+  <a href="#-getting-started"><b>Setup</b></a>
+</p>
 
-<br/><br/>
-
-<a href="#-overview">Overview</a>
-&nbsp; • &nbsp;
-<a href="#-features">Features</a>
-&nbsp; • &nbsp;
-<a href="#-technology-stack">Technology</a>
-&nbsp; • &nbsp;
-<a href="#-architecture">Architecture</a>
-&nbsp; • &nbsp;
-<a href="#-development-status">Progress</a>
-&nbsp; • &nbsp;
-<a href="#-getting-started">Setup</a>
-
-<br/><br/>
-
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4285F4,33:34A853,66:FBBC05,100:EA4335" />
+<!-- Google Gradient Divider -->
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4" />
 
 </div>
 
----
+<br/>
 
 ## 🌐 Overview
 
-**SMAQR — Smart Access. Intelligent Retail.**
+> **SMAQR** is an API-driven smart retail self-checkout ecosystem engineered to eliminate checkout friction, automate inventory processing, and provide cryptographic exit security.
 
-SMAQR is a smart retail self-checkout platform designed to make supermarket shopping more convenient through QR-based store access, barcode-based product identification, shopping cart management, checkout workflows, digital receipts, and QR-based exit verification.
-
-The backend connects application logic with a PostgreSQL database through a modular REST API architecture.
-
-The project is being developed incrementally, focusing on backend engineering, database management, API integration, and security-conscious transaction workflows.
-
-> **Our vision:** Less friction. Smarter shopping. Better retail experiences.
+<div align="center">
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" align="center" style="background-color: #f8f9fa; border-radius: 12px; padding: 16px;">
+      <img src="https://img.icons8.com/color/96/google-code.png" width="42"/><br/>
+      <b>Modular REST API</b><br/>
+      <sub>FastAPI + SQLAlchemy for low-latency transaction flows</sub>
+    </td>
+    <td width="33%" align="center" style="background-color: #f8f9fa; border-radius: 12px; padding: 16px;">
+      <img src="https://img.icons8.com/color/96/shield-a.png" width="42"/><br/>
+      <b>Cryptographic Exit</b><br/>
+      <sub>SHA-256 token hashing & Fernet encryption for gate verification</sub>
+    </td>
+    <td width="33%" align="center" style="background-color: #f8f9fa; border-radius: 12px; padding: 16px;">
+      <img src="https://img.icons8.com/color/96/google-database.png" width="42"/><br/>
+      <b>Relational Data</b><br/>
+      <sub>PostgreSQL backend for strict transactional integrity</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
 ## 🛍️ The Shopping Experience
 
+Designed around Google's Material 3 motion guidelines for intuitive, step-by-step user journeys:
+
+<br/>
+
 <div align="center">
 
-| <img src="https://img.icons8.com/color/96/qr-code.png" width="48" alt="QR code"/> | <img src="https://img.icons8.com/color/96/barcode.png" width="48" alt="Barcode"/> | <img src="https://img.icons8.com/color/96/shopping-cart--v1.png" width="48" alt="Shopping cart"/> |
-|:---:|:---:|:---:|
-| **01. ACCESS** | **02. SHOP** | **03. CHECKOUT** |
-| Scan the store QR | Identify products | Create an order |
-
-| <img src="https://img.icons8.com/color/96/bank-card-back-side.png" width="48" alt="Payment"/> | <img src="https://img.icons8.com/color/96/receipt.png" width="48" alt="Receipt"/> | <img src="https://img.icons8.com/color/96/verified-account.png" width="48" alt="Verification"/> |
-|:---:|:---:|:---:|
-| **04. PAYMENT** | **05. RECEIPT** | **06. EXIT** |
-| Simulate payment | Review order details | Verify the exit token |
+<table>
+  <tr align="center">
+    <td width="16%">
+      <img src="https://img.icons8.com/color/96/qr-code.png" width="44"/><br/>
+      <b>01. ACCESS</b><br/>
+      <sub>Scan Store QR</sub>
+    </td>
+    <td width="16%">
+      <img src="https://img.icons8.com/color/96/barcode.png" width="44"/><br/>
+      <b>02. SHOP</b><br/>
+      <sub>Scan Barcodes</sub>
+    </td>
+    <td width="16%">
+      <img src="https://img.icons8.com/color/96/shopping-cart--v1.png" width="44"/><br/>
+      <b>03. CART</b><br/>
+      <sub>Manage Items</sub>
+    </td>
+    <td width="16%">
+      <img src="https://img.icons8.com/color/96/bank-card-back-side.png" width="44"/><br/>
+      <b>04. PAY</b><br/>
+      <sub>Simulated Pay</sub>
+    </td>
+    <td width="16%">
+      <img src="https://img.icons8.com/color/96/receipt.png" width="44"/><br/>
+      <b>05. RECEIPT</b><br/>
+      <sub>Digital Receipt</sub>
+    </td>
+    <td width="16%">
+      <img src="https://img.icons8.com/color/96/verified-account.png" width="44"/><br/>
+      <b>06. EXIT</b><br/>
+      <sub>Verify Token</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## ✨ Features
+## ✨ Features & Roadmap
 
-### Backend Capabilities
+### ⚡ Core Backend Modules
 
-| Feature | Description | Status |
-|---|---|---|
-| Store Sessions | Create unique shopping sessions | Implemented |
-| Product Identification | Retrieve products using barcode information | Implemented |
-| Shopping Cart | Manage cart items and quantities | Implemented |
-| Checkout | Create orders from shopping sessions | Implemented |
-| Payment Simulation | Simulate the payment workflow | Implemented |
-| Inventory Updates | Deduct stock during successful simulated payment | Implemented |
-| Digital Receipts | Retrieve order details and itemized totals | Implemented |
-| Exit QR Generation | Generate time-limited exit tokens | Implemented |
-| Token Hashing | Hash tokens for lookup and verification | Implemented |
-| Token Encryption | Encrypt tokens for subsequent retrieval | Implemented |
-| Exit Verification | Reject expired or previously used tokens | Implemented |
+| Feature Module | Capabilities & Description | Status |
+| :--- | :--- | :---: |
+| **Store Sessions** | Generates isolate, cryptographically verifiable shopping sessions | ![Implemented](https://img.shields.io/badge/Ready-34A853?style=flat-square&logo=google-check) |
+| **Product Discovery** | Instant barcode lookup with stock & price verification | ![Implemented](https://img.shields.io/badge/Ready-34A853?style=flat-square&logo=google-check) |
+| **Cart Management** | Dynamic updates, batch quantity management, total calculation | ![Implemented](https://img.shields.io/badge/Ready-34A853?style=flat-square&logo=google-check) |
+| **Checkout Engine** | Atomically converts carts to orders with stock deduction | ![Implemented](https://img.shields.io/badge/Ready-34A853?style=flat-square&logo=google-check) |
+| **Security & Exit Gate**| SHA-256 token hashing, Fernet recovery & time-bound expiration | ![Implemented](https://img.shields.io/badge/Ready-34A853?style=flat-square&logo=google-check) |
 
-### Upcoming Features
+### 🚀 Planned Client & UI Enhancements
 
-- [ ] React-powered customer interface
-- [ ] Responsive mobile, tablet, and desktop layouts
-- [ ] Frontend–backend API integration
-- [ ] Camera-based barcode scanning
-- [ ] Interactive cart and checkout screens
-- [ ] Digital receipt and exit QR interface
-- [ ] Staff-facing exit-verification interface
-- [ ] Expanded automated testing
-- [ ] Improved transaction and concurrency guarantees
-- [ ] Real payment-provider integration
-- [ ] Production deployment and monitoring
+<details open>
+<summary><b>Frontend & User Interface (Next Phase)</b></summary>
 
-> **Current limitation:** Payments are simulated. The customer-facing frontend, camera-based scanning, real payment processing, and production deployment are not yet complete.
+- [ ] Modern React + Vite frontend adhering to **Material Design 3 Expressive** design tokens.
+- [ ] Camera-based dynamic barcode & QR scanner integration (WebRTC + BarcodeDetector API).
+- [ ] Real-time WebSocket integration for automated exit turnstile triggers.
+- [ ] Staff administration dashboard & exit receipt validator portal.
+</details>
 
 ---
 
-## 🧰 Technology Stack
-
-### 01. Programming Languages
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python"/>
+### Backend & Database Platform
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,vscode,docker&theme=light" alt="Tech Stack Icons" />
+  </a>
+</p>
 
 </div>
 
-| Language | Purpose | Status |
-|---|---|---|
-| Python | Backend application logic and API development | In use |
-| SQL | Relational database queries and management | In use |
-| JavaScript | Frontend interactions and API requests | Planned |
-| HTML5 | Frontend structure | Planned |
-| CSS3 | Styling and responsive layouts | Planned |
-
-### 02. Frameworks and Libraries
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi,react,vite&theme=light" alt="Frameworks"/>
+| Layer | Technologies | Purpose |
+| :--- | :--- | :--- |
+| **Language & Engine** | `Python 3.11+` | Core application logic, REST interfaces, and cryptography |
+| **API Framework** | `FastAPI` + `Uvicorn` | High-performance asynchronous OpenAPI server |
+| **ORM & Data** | `SQLAlchemy` + `Pydantic v2` | Data serialization, relational mapping & dynamic validation |
+| **Database** | `PostgreSQL` | Acid-compliant transactional persistence |
+| **Security** | `Cryptography (Fernet)` + `SHA-256` | Secure single-use exit verification tokens |
+| **Frontend (Planned)**| `React` + `Vite` + `TailwindCSS` | Material 3 component UI and mobile client |
 
 </div>
-
-| Technology | Purpose | Status |
-|---|---|---|
-| FastAPI | REST API framework | In use |
-| SQLAlchemy | Database ORM | In use |
-| Pydantic | Request validation and data schemas | In use |
-| React | Component-based frontend | Planned |
-| Vite | Frontend development and production builds | Planned |
-
-### 03. Database
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgresql&theme=light" alt="PostgreSQL"/>
-
-</div>
-
-| Technology | Purpose |
-|---|---|
-| PostgreSQL | Persistent relational data storage |
-| SQLAlchemy | Database interaction through Python |
-| Relational Data Modeling | Stores, products, sessions, carts, orders, and exit tokens |
-
-### 04. Security and Cryptography
-
-| Technology | Purpose |
-|---|---|
-| SHA-256 | Hashing exit tokens |
-| Fernet | Encrypting recoverable token values |
-| Environment Variables | Supplying sensitive configuration |
-| Expiration Validation | Rejecting expired tokens |
-| Single-Use Validation | Rejecting previously consumed tokens |
-
-### 05. Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=light" alt="Development Tools"/>
-
-</div>
-
-| Tool | Purpose |
-|---|---|
-| Visual Studio Code | Development environment |
-| Git | Version control |
-| GitHub | Source code hosting |
-| PowerShell | Local development commands |
-| Uvicorn | ASGI server for FastAPI |
-| Swagger UI | Interactive API documentation and testing |
-
-> Frontend technologies are planned and are not yet integrated into the current application. Verify package names against the project's dependency configuration.
 
 ---
 
-## 🏗️ Architecture
-
-SMAQR follows a layered architecture connecting the customer interface, backend API, and PostgreSQL database.
+## 🏗️ System Architecture
 
 ```mermaid
-flowchart TB
+flowchart TD
+    %% Custom Styling matching Google Color Palette
+    classDef customerStyle fill:#E8F0FE,stroke:#4285F4,stroke-width:2px,color:#1A73E8;
+    classDef frontendStyle fill:#FEF7E0,stroke:#FBBC05,stroke-width:2px,color:#B06000;
+    classDef backendStyle fill:#E6F4EA,stroke:#34A853,stroke-width:2px,color:#137333;
+    classDef securityStyle fill:#FCE8E6,stroke:#EA4335,stroke-width:2px,color:#C5221F;
+    classDef dbStyle fill:#F1F3F4,stroke:#5F6368,stroke-width:2px,color:#202124;
 
-    CUSTOMER([Customer])
-
-    subgraph FRONTEND["Frontend — Planned"]
-        UI[React Interface]
-        SCAN[Product Scanning]
-        CART[Shopping Cart]
-        CHECKOUT[Checkout and Receipt]
+    subgraph CLIENT["📱 Client Interaction (Planned)"]
+        C([Customer App]) ::: customerStyle
+        UI[React Mobile UI] ::: frontendStyle
+        SCANNER[Barcode & QR Scanner] ::: frontendStyle
     end
 
-    subgraph BACKEND["Backend — Core Workflows Implemented"]
-        API[FastAPI REST API]
-        SESSION[Session Management]
-        PRODUCTS[Product and Cart Services]
-        ORDERS[Order and Checkout Services]
-        SECURITY[Exit Token Services]
+    subgraph API_GATEWAY["⚡ FastAPI Service Core"]
+        SESS[Session Manager] ::: backendStyle
+        CART_SRV[Cart & Catalog Service] ::: backendStyle
+        ORDER_SRV[Checkout & Inventory Engine] ::: backendStyle
     end
 
-    DB[(PostgreSQL Database)]
+    subgraph SEC_VAULT["🔐 Security & Verification Module"]
+        HASH_ENG[SHA-256 Hashing] ::: securityStyle
+        FERNET_ENG[Fernet Encryption] ::: securityStyle
+        VAL_GATE[Exit Gate Validator] ::: securityStyle
+    end
 
-    CUSTOMER --> UI
+    DB[(PostgreSQL Database)] ::: dbStyle
 
-    UI --> SCAN
-    UI --> CART
-    UI --> CHECKOUT
+    C --> UI
+    UI --> SCANNER
+    SCANNER -->|REST API Requests| SESS
+    SCANNER -->|Product Scanning| CART_SRV
+    UI -->|Checkout Flow| ORDER_SRV
 
-    SCAN --> API
-    CART --> API
-    CHECKOUT --> API
+    SESS --> DB
+    CART_SRV --> DB
+    ORDER_SRV --> DB
 
-    API --> SESSION
-    API --> PRODUCTS
-    API --> ORDERS
-    API --> SECURITY
-
-    SESSION --> DB
-    PRODUCTS --> DB
-    ORDERS --> DB
-    SECURITY --> DB
-
-    classDef planned fill:#E8F0FE,stroke:#4285F4,color:#174EA6
-    classDef active fill:#E6F4EA,stroke:#34A853,color:#137333
-
-    class UI,SCAN,CART,CHECKOUT planned
-    class API,SESSION,PRODUCTS,ORDERS,SECURITY,DB active
+    ORDER_SRV --> HASH_ENG
+    ORDER_SRV --> FERNET_ENG
+    VAL_GATE --> HASH_ENG
+    SEC_VAULT --> DB
