@@ -1,25 +1,34 @@
-&#x20;\<div align="center">
+<div align="center">
 
-\<picture>   \<source media="(prefers-color-scheme: dark)" srcset="[https://capsule-render.vercel.app/api?type=venom&height=280&color=0:071C15,30:123D2B,65:397653,100:9BC6A0&fontColor=FFFFFF&text=SMAQR&fontSize=88&fontAlignY=42&animation=twinkling&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.&descSize=18&descAlignY=68](https://capsule-render.vercel.app/api?type=venom\&height=280\&color=0:071C15,30:123D2B,65:397653,100:9BC6A0\&fontColor=FFFFFF\&text=SMAQR\&fontSize=88\&fontAlignY=42\&animation=twinkling\&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.\&descSize=18\&descAlignY=68)">   \<img width="100%" src="[https://capsule-render.vercel.app/api?type=venom&height=280&color=0\:F4F7ED,30\:DDE8D5,65:8EB99A,100:245B3D&fontColor=102D22&text=SMAQR&fontSize=88&fontAlignY=42&animation=twinkling&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.&descSize=18&descAlignY=68](https://capsule-render.vercel.app/api?type=venom\&height=280\&color=0\:F4F7ED,30\:DDE8D5,65:8EB99A,100:245B3D\&fontColor=102D22\&text=SMAQR\&fontSize=88\&fontAlignY=42\&animation=twinkling\&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.\&descSize=18\&descAlignY=68)" alt="SMAQR animated hero banner"/> \</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:071C15,30:123D2B,65:397653,100:9BC6A0&fontColor=FFFFFF&text=SMAQR&fontSize=88&fontAlignY=42&animation=twinkling&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.&descSize=18&descAlignY=68"
+  />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:F4F7ED,30:DDE8D5,65:8EB99A,100:245B3D&fontColor=102D22&text=SMAQR&fontSize=88&fontAlignY=42&animation=twinkling&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.&descSize=18&descAlignY=68"
+    alt="SMAQR animated hero banner"
+  />
+</picture>
 
-\<br/>
+<br/>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=397653&center=true&vCenter=true&width=650&height=45&lines=Scan+products.+Shop+smarter.;A+better+way+to+experience+retail.;Smart+Access.+Intelligent+Retail](https://readme-typing-svg.demolab.com?font=Inter\&weight=600\&size=20\&duration=3000\&pause=1000\&color=397653\&center=true\&vCenter=true\&width=650\&height=45\&lines=Scan+products.+Shop+smarter.;A+better+way+to+experience+retail.;Smart+Access.+Intelligent+Retail)." alt="SMAQR animated tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=397653&center=true&vCenter=true&width=650&height=45&lines=Scan+products.+Shop+smarter.;A+better+way+to+experience+retail.;Smart+Access.+Intelligent+Retail." alt="SMAQR animated tagline"/>
 
-\<br/>
+<br/>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-
-\
-
-
-\<br/>
+<br/>
 
 **SCAN · COMPARE · UNDERSTAND · SHOP SMARTER**
 
-\</div>
-
+</div>
 ---
 
 ## 🌿 About SMAQR
