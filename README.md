@@ -1,16 +1,18 @@
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:071C15,30:123D2B,65:397653,100:9BC6A0&fontColor=FFFFFF&text=SMAQR&fontSize=88&fontAlignY=42&animation=twinkling&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.&descSize=18&descAlignY=68"
-  />
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:F4F7ED,30:DDE8D5,65:8EB99A,100:245B3D&fontColor=102D22&text=SMAQR&fontSize=88&fontAlignY=42&animation=twinkling&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.&descSize=18&descAlignY=68"
-    alt="SMAQR animated hero banner"
-  />
-</picture>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:071C15,50:245B3D,100:9BC6A0&fontColor=FFFFFF&text=SMAQR&fontSize=90&fontAlignY=38&animation=twinkling&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.&descSize=18&descAlignY=60"
+  alt="SMAQR dark theme banner"
+  id="gh-dark-mode-only"
+/>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:F4F7ED,50:DDE8D5,100:397653&fontColor=102D22&text=SMAQR&fontSize=90&fontAlignY=38&animation=twinkling&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.&descSize=18&descAlignY=60"
+  alt="SMAQR light theme banner"
+  id="gh-light-mode-only"
+/>
 
 <br/>
 
@@ -29,7 +31,6 @@
 **SCAN · COMPARE · UNDERSTAND · SHOP SMARTER**
 
 </div>
----
 
 ## 🌿 About SMAQR
 
