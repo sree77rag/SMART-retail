@@ -255,13 +255,6 @@ The backend shopping workflow has been implemented and tested. The React fronten
 Our focus is building a reliable, scalable and user-friendly smart retail experience.
 
 ---
-
-\<div align="center">
-
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=rect&height=3&color=0:102D22,50:397653,100\:DDE8D5](https://capsule-render.vercel.app/api?type=rect\&height=3\&color=0:102D22,50:397653,100\:DDE8D5)"/>
-
-\<br/>
-
 **SMAQR**
 
 *Smart Access. Intelligent Retail.*
