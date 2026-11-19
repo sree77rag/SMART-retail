@@ -23,7 +23,7 @@
 
 </div>
 
-## 🌿 About SMAQR
+## About SMAQR
 
 **SMAQR — Smart Access. Intelligent Retail.**
 
@@ -31,7 +31,7 @@ SMAQR is a smart retail platform designed to improve the in-store shopping exper
 
 Our goal is to make supermarket shopping more convenient, transparent and intelligent by connecting customers and retailers through technology.
 
-## ✨ Core Features
+## Core Features
 
 | Feature            | Description                                      | Status         |
 | ------------------ | ------------------------------------------------ | -------------- |
