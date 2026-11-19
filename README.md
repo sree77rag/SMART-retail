@@ -7,15 +7,6 @@
   id="gh-dark-mode-only"
 />
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:F4F7ED,50:DDE8D5,100:397653&fontColor=102D22&text=SMAQR&fontSize=90&fontAlignY=38&animation=twinkling&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.&descSize=18&descAlignY=60"
-  alt="SMAQR light theme banner"
-  id="gh-light-mode-only"
-/>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=397653&center=true&vCenter=true&width=650&height=45&lines=Scan+products.+Shop+smarter.;A+better+way+to+experience+retail.;Smart+Access.+Intelligent+Retail." alt="SMAQR animated tagline"/>
 
 <br/>
