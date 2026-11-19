@@ -1,24 +1,24 @@
- <div align="center">
+&#x20;\<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:102D22,35:245B3D,70:6E9B72,100:DDE8D5&fontColor:FFFFFF&text=SMAQR&fontSize=82&fontAlignY=42&animation=twinkling&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.&descSize=17&descAlignY=68" alt="SMAQR animated hero banner"/>
+\<picture>   \<source media="(prefers-color-scheme: dark)" srcset="[https://capsule-render.vercel.app/api?type=venom&height=280&color=0:071C15,30:123D2B,65:397653,100:9BC6A0&fontColor=FFFFFF&text=SMAQR&fontSize=88&fontAlignY=42&animation=twinkling&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.&descSize=18&descAlignY=68](https://capsule-render.vercel.app/api?type=venom\&height=280\&color=0:071C15,30:123D2B,65:397653,100:9BC6A0\&fontColor=FFFFFF\&text=SMAQR\&fontSize=88\&fontAlignY=42\&animation=twinkling\&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.\&descSize=18\&descAlignY=68)">   \<img width="100%" src="[https://capsule-render.vercel.app/api?type=venom&height=280&color=0\:F4F7ED,30\:DDE8D5,65:8EB99A,100:245B3D&fontColor=102D22&text=SMAQR&fontSize=88&fontAlignY=42&animation=twinkling&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.&descSize=18&descAlignY=68](https://capsule-render.vercel.app/api?type=venom\&height=280\&color=0\:F4F7ED,30\:DDE8D5,65:8EB99A,100:245B3D\&fontColor=102D22\&text=SMAQR\&fontSize=88\&fontAlignY=42\&animation=twinkling\&desc=SMART%20ACCESS.%20INTELLIGENT%20RETAIL.\&descSize=18\&descAlignY=68)" alt="SMAQR animated hero banner"/> \</picture>
 
-<br/>
+\<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=397653&center=true&vCenter=true&width=650&height=45&lines=Scan+products.+Shop+smarter.;A+better+way+to+experience+retail.;Smart+Access.+Intelligent+Retail." alt="SMAQR animated tagline"/>
+\<img src="[https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=397653&center=true&vCenter=true&width=650&height=45&lines=Scan+products.+Shop+smarter.;A+better+way+to+experience+retail.;Smart+Access.+Intelligent+Retail](https://readme-typing-svg.demolab.com?font=Inter\&weight=600\&size=20\&duration=3000\&pause=1000\&color=397653\&center=true\&vCenter=true\&width=650\&height=45\&lines=Scan+products.+Shop+smarter.;A+better+way+to+experience+retail.;Smart+Access.+Intelligent+Retail)." alt="SMAQR animated tagline"/>
 
-<br/>
+\<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<br/>
+
+
+\
+
+
+\<br/>
 
 **SCAN · COMPARE · UNDERSTAND · SHOP SMARTER**
 
-</div>
+\</div>
 
 ---
 
@@ -32,16 +32,16 @@ Our goal is to make supermarket shopping more convenient, transparent and intell
 
 ## ✨ Core Features
 
-| Feature | Description | Status |
-|---|---|---|
-| Shopping Sessions | Create and retrieve individual shopping sessions | Implemented |
-| Product Discovery | Find products using barcode information | Implemented |
-| Smart Cart | Add, update and remove products from a cart | Implemented |
-| Stock Validation | Check available stock when adding products | Implemented |
-| Checkout | Create orders and process simulated payment | Implemented |
-| Digital Receipt | Generate a digital order summary | Implemented |
-| Exit Verification | Validate secure, single-use exit tokens | Implemented |
-| Customer Dashboard | React-based customer portal | In development |
+| Feature            | Description                                      | Status         |
+| ------------------ | ------------------------------------------------ | -------------- |
+| Shopping Sessions  | Create and retrieve individual shopping sessions | Implemented    |
+| Product Discovery  | Find products using barcode information          | Implemented    |
+| Smart Cart         | Add, update and remove products from a cart      | Implemented    |
+| Stock Validation   | Check available stock when adding products       | Implemented    |
+| Checkout           | Create orders and process simulated payment      | Implemented    |
+| Digital Receipt    | Generate a digital order summary                 | Implemented    |
+| Exit Verification  | Validate secure, single-use exit tokens          | Implemented    |
+| Customer Dashboard | React-based customer portal                      | In development |
 
 ### 🚀 Future Roadmap
 
@@ -62,18 +62,18 @@ Our goal is to make supermarket shopping more convenient, transparent and intell
 
 ## 🛍️ How SMAQR Works
 
-<div align="center">
+\<div align="center">
 
-| Step | Shopping Process |
-|:---:|---|
-| 📱 01 | Enter the store and create a shopping session |
-| 🏷️ 02 | Scan or enter a product barcode |
-| 🛒 03 | Add products and manage the shopping cart |
-| 💳 04 | Complete the simulated checkout |
-| 🧾 05 | Receive a digital receipt |
-| 🔐 06 | Verify the exit token |
+|  Step  | Shopping Process                              |
+| :----: | --------------------------------------------- |
+|  📱 01 | Enter the store and create a shopping session |
+| 🏷️ 02 | Scan or enter a product barcode               |
+|  🛒 03 | Add products and manage the shopping cart     |
+|  💳 04 | Complete the simulated checkout               |
+|  🧾 05 | Receive a digital receipt                     |
+|  🔐 06 | Verify the exit token                         |
 
-</div>
+\</div>
 
 ---
 
@@ -101,18 +101,18 @@ flowchart TD
 
 ## 🧰 Technology Stack
 
-| Layer | Technology |
-|---|---|
-| Frontend | React |
-| Frontend tooling | Vite |
-| Backend | Python |
-| API framework | FastAPI |
-| Database | SQLite |
-| ORM | SQLAlchemy |
-| Data validation | Pydantic |
-| API server | Uvicorn |
-| Security | SHA-256 and Fernet |
-| Version control | Git and GitHub |
+| Layer            | Technology         |
+| ---------------- | ------------------ |
+| Frontend         | React              |
+| Frontend tooling | Vite               |
+| Backend          | Python             |
+| API framework    | FastAPI            |
+| Database         | SQLite             |
+| ORM              | SQLAlchemy         |
+| Data validation  | Pydantic           |
+| API server       | Uvicorn            |
+| Security         | SHA-256 and Fernet |
+| Version control  | Git and GitHub     |
 
 ---
 
@@ -255,11 +255,11 @@ Our focus is building a reliable, scalable and user-friendly smart retail experi
 
 ---
 
-<div align="center">
+\<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:102D22,50:397653,100:DDE8D5"/>
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=rect&height=3&color=0:102D22,50:397653,100\:DDE8D5](https://capsule-render.vercel.app/api?type=rect\&height=3\&color=0:102D22,50:397653,100\:DDE8D5)"/>
 
-<br/>
+\<br/>
 
 **SMAQR**
 
@@ -267,4 +267,4 @@ Our focus is building a reliable, scalable and user-friendly smart retail experi
 
 **Building a smarter shopping experience. 🌿**
 
-</div>
+\</div>
