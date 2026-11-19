@@ -250,15 +250,3 @@ smart-retail/
 
 SMAQR is currently under active development.
 
-The backend shopping workflow has been implemented and tested. The React frontend is being developed and progressively connected to the backend API.
-
-Our focus is building a reliable, scalable and user-friendly smart retail experience.
-
----
-**SMAQR**
-
-*Smart Access. Intelligent Retail.*
-
-**Building a smarter shopping experience. 🌿**
-
-\</div>
